@@ -1,5 +1,5 @@
-- My name is Luis henrique 💭
-- I like play football 💤
+- **My name is Luis henrique**💭
+- **I like play football** 💤
 
 <!---
 riquekzx/riquekzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
